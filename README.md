@@ -117,9 +117,3 @@ Script is for educational and research purposes. Use responsibly and respect Ins
 License
 This project is open source under the MIT License.
 
-yaml
-Copy code
-
----
-
-👉 Do you want me to also create a ready-to-use **`.gitignore`** file (to ignore session files, CSV outputs, a
